@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalazooma
+- 👋 Hi, I’m @Ilhamshah
 - 👀 I’m interested in web developing / data analysis
 - 🌱 I’m currently learning javascript (for now)
 - 💞️ I’m looking to collaborate with everyone in order to sharpen my skill
